@@ -1,0 +1,49 @@
+PHP Interview Questions:
+
+
+Question 1: 
+
+Write a PHP program to find factorial of a number using recursive function.
+
+input 4 / Output 24
+
+
+
+
+Question 2:
+
+Remove specific element by value from an array in PHP?
+
+$monthArray = array('jan', 'feb', 'march', 'april', 'may');
+
+remove value ( march ) from $monthArray
+
+Output will be array('jan', 'feb', 'april', 'may');
+
+
+
+
+Question 3:
+
+Remove - from string start and end
+input : -Hello Themelooks-
+output will be: Hello Themelooks
+
+
+
+
+
+Laravel Interview Questions:
+
+
+Question 1:
+
+Write following Routes
+
+	- Redirect Routes
+	- View Routes
+	- Required Parameters
+	- Middleware
+	- Named Routes
+
+Follow the attached screenshot for other question and solve this problem with Laravel.
